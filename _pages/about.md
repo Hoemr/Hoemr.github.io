@@ -171,4 +171,4 @@ Feel free to reach me at weichen_work@126.com! 😃
   - *2021.06*, None. 
 
 # 💻 Internships
-  - *2026.02 - 2026.05*, [Tensor Learning Team of RIKEN AIP](https://qibinzhao.github.io/), Japan.
+  - 
